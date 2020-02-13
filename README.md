@@ -20,7 +20,7 @@ $ cd if-SQL-BUG <br />
 $ python3 if-SQL-BUG.py</code>
 </pre>
 <br />
-<a href="https://t.me/Thelinkif"> Telegram </a>
-<a href="https://instagram.com/ifcompany.ir"> Instagram </a>
-<a href="https://www.youtube.com/channel/UCjc1xeBMu-mqXPSFSrzLEsg"> youtube </a>
-<a href="https://discord.gg/jdurtWw"> discord </a>
+<a href="https://t.me/Thelinkif">&nbsp;Telegram&nbsp;</a>
+<a href="https://instagram.com/ifcompany.ir">&nbsp;Instagram&nbsp;</a>
+<a href="https://www.youtube.com/channel/UCjc1xeBMu-mqXPSFSrzLEsg">&nbsp;youtube&nbsp;</a>
+<a href="https://discord.gg/jdurtWw">&nbsp;discord&nbsp;</a>
