@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
 <h1>if SQL Bug</h1>
 <br />
 <img src="logp.gif"/>
@@ -29,4 +28,3 @@ $ python3 if-SQL-BUG.py</code>
 <br />
 <a href="https://discord.gg/jdurtWw">discord</a>
 <br />
-<a href="https://instagram.com/ifcompany.ir"><i class="fab fa-instagram"></i></a>
