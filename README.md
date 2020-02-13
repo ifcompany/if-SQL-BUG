@@ -24,7 +24,7 @@ $ python3 if-SQL-BUG.py</code>
 <br />
 <a href="https://instagram.com/ifcompany.ir">Instagram</a>
 <br />
-<a href="https://instagram.com/ifcompany.ir">youtube</a>
+<a href="https://www.youtube.com/channel/UCjc1xeBMu-mqXPSFSrzLEsg">youtube</a>
 <br />
 <a href="https://discord.gg/jdurtWw">discord</a>
 <br />
